@@ -600,3 +600,18 @@ k{
     letter-spacing: -0.3em;
 }
 /*Completed*/
+.login-2{
+    width: 17em;
+    height: 2em;
+    margin-bottom: 1em;
+    border:0.05em solid gray;
+    box-shadow: -0.4em 0.5em 0.5em black;
+    text-align: center;
+    padding-top:0.5em;
+    background-color: burlywood;
+   
+}
+.hr-login{
+    width: 30em;
+    margin-left: -5em;
+}

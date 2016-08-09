@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-image: url("atom.jpg");
+    background-repeat: space;
+    margin: 0em;
+    padding:0em;
+}
+form{
+    background-color:rgba(41, 86, 214, 0.62);
+    width:20em;
+    height: 26em;
+    border-radius: 0.5em;
+    padding:1em;
+    box-shadow: -0.7em 1em 1em black;
+    display: inline-block;
+    margin-left: 2em;
+    margin-top:6em;
+
+}
+input ,select{
+    margin:0.2em 0.2em 0.2em 0em;
+    border-radius: 0.25em;
+}
+.input-paddding {
+    padding:0.2em;
+}
+.submit{
+    color:black;
+    background-color: rgba(113, 141, 221, 0.77);
+    border-radius: 1em;
+    padding:0.5em 1em 0.5em 1em;
+    border:0em;
+    margin-left: 16.5em;
+    box-shadow:-0.3em 0.4em 0.7em black ;
+}
+.welcome{
+    margin-top:2em;
+    float: left;
+    font-size: 3em;
+    background-color: rgba(132, 34, 34, 0.73);
+    width:10em;
+    height:5em;
+    text-align: center;
+    padding-top:1em;
+    line-height: 2em;
+    font-weight: 600;
+    font-family: Colonna MT;
+    margin-left:1.2em;
+    margin-right:0.5em;
+    margin-top:3em;
+    border-top-left-radius:1.5em;
+    border-bottom-right-radius:1.5em;
+    box-shadow:-0.3em 0.4em 0.7em black;
+   color:black:;
+
+
+ }
