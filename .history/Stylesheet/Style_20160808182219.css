@@ -609,8 +609,6 @@ k{
     text-align: center;
     padding-top:0.5em;
     background-color: burlywood;
-    border-top-left-radius:1em;
-    border-bottom-right-radius:1em;
    
 }
 .hr-login{
@@ -624,5 +622,4 @@ k{
     text-decoration: underline;
     color:green;
     font-size: 1em;
-
 }
